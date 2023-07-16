@@ -24,7 +24,7 @@ A simple app that demonstrates ways of sharing data between screens in Android.
   <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_3.gif" />
 </p>
 
-## Compostion Local
+## Composition Local
 
 <p align="center">
   <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_4.gif" />
