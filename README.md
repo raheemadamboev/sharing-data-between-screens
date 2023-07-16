@@ -8,20 +8,30 @@ A simple app that demonstrates ways of sharing data between screens in Android.
 
 ## Navigation Arguments
 
-<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_1.gif" />
+<p align="center">
+  <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_1.gif" />
+</p>
 
 ## Shared Viewmodel
 
-<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_2.gif" />
+<p align="center">
+  <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_2.gif" />
+</p>
 
 ## Stateful Dependency
 
-<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_3.gif" />
+<p align="center">
+  <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_3.gif" />
+</p>
 
 ## Compostion Local
 
-<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_4.gif" />
+<p align="center">
+  <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_4.gif" />
+</p>
 
 ## Persistent Storage
 
-<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_5.gif" />
+<p align="center">
+  <img width="296" height="600"  src="https://github.com/raheemadamboev/sharing-data-between-screens/blob/master/banner_5.gif" />
+</p>
