@@ -13,6 +13,7 @@ import xyz.teamgravity.sharingdatabetweenscreens.presentation.component.CenterCo
 @Composable
 fun NavigationArguments() {
     val controller = rememberNavController()
+
     NavHost(
         navController = controller,
         startDestination = "screen1"
@@ -21,7 +22,7 @@ fun NavigationArguments() {
             route = "screen1"
         ) {
             Screen1(
-                onNavigateScreen2 = { argument ->
+                onNavigate = { argument ->
                     controller.navigate("screen2/$argument")
                 }
             )
@@ -41,12 +42,12 @@ fun NavigationArguments() {
 
 @Composable
 fun Screen1(
-    onNavigateScreen2: (String) -> Unit
+    onNavigate: (String) -> Unit
 ) {
     CenterContainer {
         Button(
             onClick = {
-                onNavigateScreen2("Fuck you!")
+                onNavigate("Fuck you!")
             }
         ) {
             Text(text = "Click me")
