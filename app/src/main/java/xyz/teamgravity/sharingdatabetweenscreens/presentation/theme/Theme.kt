@@ -1,4 +1,4 @@
-package xyz.teamgravity.sharingdatabetweenscreens.ui.theme
+package xyz.teamgravity.sharingdatabetweenscreens.presentation.theme
 
 import android.app.Activity
 import android.os.Build
