@@ -16,7 +16,7 @@ import xyz.teamgravity.sharingdatabetweenscreens.presentation.component.CenterCo
 import javax.inject.Inject
 
 @Composable
-fun PersistentStorage() {
+fun PersistentStorageScreen() {
     val controller = rememberNavController()
 
     NavHost(

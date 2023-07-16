@@ -17,7 +17,7 @@ import kotlinx.coroutines.launch
 import xyz.teamgravity.sharingdatabetweenscreens.presentation.component.CenterContainer
 
 @Composable
-fun CompositionLocal() {
+fun CompositionLocalScreen() {
     CompositionLocalProvider(LocalSnackbarHostState provides LocalSnackbarHostState.current) {
         MainScreen()
     }

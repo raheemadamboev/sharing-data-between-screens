@@ -11,7 +11,7 @@ import androidx.navigation.navArgument
 import xyz.teamgravity.sharingdatabetweenscreens.presentation.component.CenterContainer
 
 @Composable
-fun NavigationArguments() {
+fun NavigationArgumentsScreen() {
     val controller = rememberNavController()
 
     NavHost(
